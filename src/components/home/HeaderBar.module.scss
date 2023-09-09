@@ -1,7 +1,11 @@
-.authBtn {
-  position: absolute;
-  top: 20px;
-  right: 20px;
+.mainContainer {
+  display: block;
+  width: 100%;
+}
+
+.authContainer {
+  float: right;
+  margin: 20px;
 }
 
 .profileImage {

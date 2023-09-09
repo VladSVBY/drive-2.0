@@ -1,5 +1,5 @@
 interface Button {
-    buttonClass: string
+    buttonClass?: string
     title: string
 
     onClick: () => void
